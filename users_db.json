@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "account_details": {
+            "account_number": "123456",
+            "balance": "$5000"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "account_details": {
+            "account_number": "789012",
+            "balance": "$7500"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "account_details": {
+            "account_number": "345678",
+            "balance": "$10000"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Alice Williams",
+        "email": "alice.williams@example.com",
+        "account_details": {
+            "account_number": "901234",
+            "balance": "$2500"
+        }
+    },
+    {
+        "id": 5,
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "account_details": {
+            "account_number": "567890",
+            "balance": "$8000"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Sarah Davis",
+        "email": "sarah.davis@example.com",
+        "account_details": {
+            "account_number": "123789",
+            "balance": "$6000"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Michael Wilson",
+        "email": "michael.wilson@example.com",
+        "account_details": {
+            "account_number": "890123",
+            "balance": "$9500"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Emily Jones",
+        "email": "emily.jones@example.com",
+        "account_details": {
+            "account_number": "456789",
+            "balance": "$4000"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Daniel Lee",
+        "email": "daniel.lee@example.com",
+        "account_details": {
+            "account_number": "012345",
+            "balance": "$12000"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Olivia Martin",
+        "email": "olivia.martin@example.com",
+        "account_details": {
+            "account_number": "678901",
+            "balance": "$3000"
+        }
+    }
+]
