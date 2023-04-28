@@ -28,9 +28,12 @@ Test the API:
 With the server running, you can test the API by sending requests to it using a tool like Postman. Here's an example of how to test the GET http://localhost:3000/api/v1/users/:userId
 
 Open up Postman and create a new request.
+
 Set the request method to GET.
 Set the request URL to http://localhost:3000/api/v1/users/12345 (replace 12345 with a valid user ID from the database).
 Send the request.
 You should receive a response containing the user object with the specified ID.
+
+Or get the collection ready with an exemple from the collections folder.
 
 That's it! You now have a working API that can handle GET requests for user data. You can modify the code to add more functionality or endpoints as needed.
